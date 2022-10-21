@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:MikePLillis@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
   <a href="https://www.linkedin.com/in/MikeLillis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="www.Michael-Lillis.com"><img src="https://img.shields.io/badge/website-1BB42B?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://Michael-Lillis.com">MichaelLillis.com"><img src="https://img.shields.io/badge/website-1BB42B?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ## About Me 🧍
